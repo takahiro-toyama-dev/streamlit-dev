@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import Image
 import time
 
 st.title("Streamlit 超入門")
